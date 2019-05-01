@@ -1,6 +1,6 @@
 ## Welcome to Pages my baby Yd hahahahahahahah!
 
-You can use the [editor on GitHub](https://github.com/qiuqiubeibei/Qiuqiubeibei.githup.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+杨老师杨老师看得到不！！！！我换中文了！！杨老师！！！
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
