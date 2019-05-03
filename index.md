@@ -1,41 +1,21 @@
 ## Welcome to Pages !
 This is the website I just created, or a novice, please give more advice, thank you.
 
-### Markdown
+### 框框
 
 
-```框框
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](C:\Users\Handsomeheee\Desktop\IMG_2588.JPG)
 ```
+
+### My CSDN blog link is（qiuqiubeibei）
+```
+
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](C:\Users\Handsomeheee\Desktop\IMG_2588.JPG)
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
