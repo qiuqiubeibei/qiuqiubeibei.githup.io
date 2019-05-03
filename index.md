@@ -5,7 +5,6 @@ This is the website I just created, or a novice, please give more advice, thank 
 
 
 ```框框
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
