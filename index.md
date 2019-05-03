@@ -1,12 +1,8 @@
-## Welcome to Pages my baby Yd hahahahahahahah!
-
-杨老师杨老师看得到不！！！！我换中文了！！杨老师！！！
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to Pages !
+This is the website I just created, or a novice, please give more advice, thank you.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
