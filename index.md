@@ -1,7 +1,7 @@
 ## Adhere to the dream, give up is just a delusion !
 This is the website I just created, or a novice, please give more advice, thank you.
 
-### 坚持了才叫梦想，放弃就只是妄想！
+### 坚持了才叫梦想，放弃了就只是妄想！
 
 
 ```
