@@ -6,9 +6,8 @@ This is the website I just created, or a novice, please give more advice, thank 
 
 ```
 
-
-## My GitHub is（qiuqiubeibei）
-## My CSDN blog link is（qiuqiubeibei）
+ My GitHub is（qiuqiubeibei）
+ My CSDN blog link is（qiuqiubeibei）
 
 
 ```
