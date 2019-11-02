@@ -1,0 +1,3 @@
+db.movie_infos.aggregate(
+{$group:{country:"$country",totals:{$sum:1}}}
+)
