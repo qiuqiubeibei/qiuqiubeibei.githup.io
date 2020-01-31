@@ -9,13 +9,8 @@ This is the website I just created, or a novice, please give more advice, thank 
  My CSDN blog link is（qiuqiubeibei）
 ```
 
-1.01 的 365 次幂 = 37.78343433288728
-0.99 的 365 次幂 = 0.025517964452291125
-
-$$
-1.01^{365} = 37.78343433288728
-$$
-
+1.01^365 = 37.78343433288728
+0.99^365 = 0.025517964452291125
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
